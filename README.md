@@ -1,4 +1,4 @@
-## Expense-Tracker App using [ReactJS](https://reactjs.org/)
+## Budget-Tracker App using [ReactJS](https://reactjs.org/)
 
 > Installation
 
